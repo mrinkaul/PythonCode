@@ -1,0 +1,14 @@
+
+
+
+
+
+
+Name ="C:\\Users\\mrinalini\\Documents\\PythonCode\\worktxt.txt"
+f = open(FNAME, "a")
+
+yourname = input('Enter your name: ')
+b  = str(yourname)
+
+f.write(b + " " + str(yourname) + "\n" )
+f.close ()

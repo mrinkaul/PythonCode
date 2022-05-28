@@ -1,0 +1,37 @@
+
+
+
+
+chance ="C:\\Users\\mrinal.......ini\\Documents\\PythonCode\\chance.txt"
+f = open(sort, "r")
+line = f.readline()
+
+while line:
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+copy ="C:\\Users\\mrinalini\\Documents\\PythonCode\\copy.txt"

@@ -1,0 +1,14 @@
+slope = -2
+intercept = 1.2
+
+theEquation = 'y = ' + str(slope) + '*x + ' + str(intercept) 
+
+
+print('slope:', slope)
+print('y-intercept:', intercept)
+print('Equation:',  theEquation)
+
+for x in range (-10, 10):
+  y = slope*x + intercept
+  print('For x = ', x, ' y is ', y)
+

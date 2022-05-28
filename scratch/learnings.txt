@@ -1,0 +1,16 @@
+1. Starting Python program using <Ctrl>+<Shift>+<Enter>
+2. Starting Python shell (IDLE or Python) to experiment
+3. Numbers
+4. Operations + - * /  and order of operations
+5. Variables and assigning numbers to variables
+6. Operations on variables
+7. Printing strings and variables
+8. Print newline is \n
+9. How is 'input' used ? 
+10. Convert whole number string to a whole number using  int(..)
+11. Convert decimal number string to decimal using float(..)
+12. Get string number input, and convert to number in one line
+13. int() and float() need to be used to convert strings to numbers
+14. Absolute of a number is the number without the sign. Use abs(...)
+15. w below says write (create new, or of already there, wipe it and create new)
+16.a below says append to a file (create new, or if already there, open it at the end to start writing)

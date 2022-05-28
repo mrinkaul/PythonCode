@@ -1,0 +1,12 @@
+userinput = input('enter a number from 0-99')
+mynum = 65
+yournum = int(userinput)
+difference = mynum - yournum
+answer = abs (difference)
+
+print ('Your number was', yournum)
+print ('My number was', answer, ' away from your number.')
+
+
+
+

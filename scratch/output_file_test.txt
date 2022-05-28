@@ -1,0 +1,7 @@
+This is the first line
+Second line
+The value of a = 99
+The name = Vikram
+This is appended
+The value of a = 324
+The name = MR

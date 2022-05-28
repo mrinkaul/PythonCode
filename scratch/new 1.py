@@ -1,0 +1,5 @@
+  mylist = line.split(" ")
+  print(mylist)
+  howmany = len(mylist)
+  print(howmany)
+  print(mylist[3])

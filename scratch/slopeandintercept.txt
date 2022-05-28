@@ -1,0 +1,13 @@
+firstx = input("Enter any number for X1, must be a whole.")
+secondx = input("Enter any number for X2, must be a whole.")
+fisrty = input("Enter any number for Y1, must be a whole.")
+secondy = input("Enter any number for Y2, must be a whole.")
+
+print(firstx)
+print(s
+
+step1 = (secondy-fisrty)/(secondx-firstx)
+step2 = fisrty - step1*firstx
+
+print('slope:', step1)
+print('y-intercept', step2)

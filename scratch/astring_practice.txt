@@ -1,0 +1,11 @@
+word = 'Gynmastics and'
+afewwords = word.split(" ")
+print(afewwords)
+
+i=0
+for f in afewwords:
+	if(i % 2 == 0):
+		print("## ", f)
+	i = i+1
+
+print('DONE')

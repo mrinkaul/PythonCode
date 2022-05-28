@@ -1,0 +1,2 @@
+words = "Mrinalini 23 35 56"
+words2 = words.split("i")
